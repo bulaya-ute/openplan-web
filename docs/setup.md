@@ -11,13 +11,13 @@
 
 ```bash
 npm install
-npm run dev      # http://localhost:5173
+npm run dev      # http://localhost:5041
 ```
 
 Create `.env` to override the API URL:
 
 ```env
-VITE_API_URL=http://localhost:5000/api/v1
+VITE_API_URL=http://localhost:5040/api/v1
 ```
 
 ---

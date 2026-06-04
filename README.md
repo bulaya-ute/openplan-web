@@ -26,13 +26,13 @@ The React web client for [OpenPlan](https://github.com/bulaya-ute/openplan-api) 
 
 ```bash
 npm install
-npm run dev      # http://localhost:5173
+npm run dev      # http://localhost:5041
 ```
 
 To point at a non-default API URL, create a `.env` file:
 
 ```env
-VITE_API_URL=http://localhost:5000/api/v1
+VITE_API_URL=http://localhost:5040/api/v1
 ```
 
 ## Commands
